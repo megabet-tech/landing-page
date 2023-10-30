@@ -571,7 +571,7 @@ export default function LandingPage() {
                             </div>
                           </div>
                           <div className="items-start flex w-[230px] max-w-full gap-2 mt-3">
-                            <div className="bg-purple-500 self-center flex w-4 h-4 flex-col my-auto rounded" />
+                            <div className="bg-teal-300 self-center flex w-4 h-4 flex-col my-auto rounded" />
                             <div className="text-white text-center text-base font-semibold self-center my-auto">
                               Private Invesment 5.0%
                             </div>

@@ -360,7 +360,7 @@ export default function MobilePage() {
               </div>
             </div>
             <div className="items-start flex w-full gap-2 mt-3">
-              <div className="bg-purple-500 self-center flex w-4 h-4 flex-col my-auto rounded" />
+              <div className="bg-teal-300 self-center flex w-4 h-4 flex-col my-auto rounded" />
               <div className="text-white text-center text-base font-semibold self-stretch">
                 Private Invesment 5.0%
               </div>
