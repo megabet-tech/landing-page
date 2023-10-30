@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Clash+Display:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient-purple {
+    background: linear-gradient(181deg, #5A1EA1 0.62%, rgba(0, 0, 0, 0.00) 66.31%);
+}
